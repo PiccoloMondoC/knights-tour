@@ -1,1 +1,1 @@
-# src-knights-tour
+# knights-tour
